@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "497181520393",
+    "firebase_url": "https://fir-location-c2793.firebaseio.com",
+    "project_id": "fir-location-c2793",
+    "storage_bucket": "fir-location-c2793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497181520393:android:0f3b8a3660c7efe4",
+        "android_client_info": {
+          "package_name": "com.example.android.locationsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497181520393-dl1a5hliulei0rru5bl18g5ce2iq52i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.locationsender",
+            "certificate_hash": "f6e79cac00722a201376b30e62b19cc0e1564d28"
+          }
+        },
+        {
+          "client_id": "497181520393-c67amvb34dpki9q2jm8ohk7ihfhn2po4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZPkGxUxQeVsw5l33kHv74CULRF9Tm1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497181520393-c67amvb34dpki9q2jm8ohk7ihfhn2po4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497181520393:android:6352d4db58d6dcde",
+        "android_client_info": {
+          "package_name": "com.example.android.transportdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497181520393-30978mq6pnkc21k7f9s05b0f5fmup9sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.transportdisplay",
+            "certificate_hash": "f6e79cac00722a201376b30e62b19cc0e1564d28"
+          }
+        },
+        {
+          "client_id": "497181520393-c67amvb34dpki9q2jm8ohk7ihfhn2po4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZPkGxUxQeVsw5l33kHv74CULRF9Tm1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497181520393-c67amvb34dpki9q2jm8ohk7ihfhn2po4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
