@@ -116,5 +116,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             marker.setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_bus_icon));
         }
         mMap.animateCamera(CameraUpdateFactory.newLatLngBounds(builder.build(), 300));
+
+
     }
 }
